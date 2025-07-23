@@ -1,0 +1,149 @@
+# Arrom, o Bado
+> (Description::... tá, mas o que é esse echo knight?! ) 
+
+|            |                                            |
+| :--------: | ------------------------------------------ |
+|   Class    | Fighter                                    |
+| Sub-Class  | [Echo Knight](https://imgur.com/a/0cHRYx7) |
+|   Level    | 4                                          |
+|    Race    | Humano                                     |
+| Alignment  | NG                                         |
+| Background | Soldier                                    |
+
+## Stats
+HP | AC | Speed | Initiative |
+:---:|:---:|:---:|:---:|
+33|16|9m|+1|
+
+Hit Dice | Proficiency Bonus | Temp HP | 
+:---:|:---:|:---:|
+4d10+CON|+2|---|
+
+Senses | \# |
+---|---|
+**Passive Perception** |13|
+
+
+## Abilities
+
+\# | STR | DEX | CON | INT | WIS | CHA|
+:---:|:----:|:----:|:---:|:---:|:---:|---|
+ Stats | 16 | 13 | 14 | 8 | 12 | 10 |
+ Modifier | +3 | +1 | +2 | -1 | +1 | 0 |
+ Saving Throw | +5 | - | +4 | - | - | - |
+
+
+### Skills
+\# | Skill | Ability |
+:--:|-----|:------:|
+.| Acrobatics | DEX |
+.| Animal Handling | WIS |
+.| Arcana | INT |
++5| Athletics | STR |
+.| Deception | CHA |
+.| History | INT |
+.| Insight | WIS |
++2| Intimidation | CHA |
+.| Investigation | INT |
+.| Medicine | WIS |
+.| Nature | WIS |
++3| Perception | WIS |
+.| Performance | CHA |
+.| Persuasion | CHA |
+.| Religion | INT |
+.| Sleight of Hand | DEX |
+.| Stealth | DEX |
+.| Survival | WIS |
+
+## Traits
+
+
+```button
+name Add Trait
+type line(+1) text
+action ###### Trait
+**Description of trait**
+color #640b0b
+
+- Bullet list of what traits do
+```
+
+
+
+## Proficiencies
+
+```button
+name Add Proficiency
+type line(+1) text
+action ###### Proficiency
+**Description of Proficiency**
+
+- Bullet list of what do
+```
+
+
+## Languages
+
+-PlaceHolder
+
+
+## Actions
+
+```button
+name Weapon/Feat Type
+type line(+4) text
+action **==Weapon/Feat Type==** |||||
+```
+
+Name | Atk. Bonus | Hit | Damage Type | Range |
+---|:---:|:---:|---|:---:|
+**==Weapon/Feat Type==** |||||
+
+
+
+## Spells
+Spellcasting Ability | Save DC | Spell Atk. Bonus |
+:---:|:---:|:---:|
+\- |-|-|
+
+
+### Spell Book
+ 
+```button
+name Add Spell
+type line(+4) text
+action | nivel | nome | efeito | componentes 
+```
+
+| Level | Name | Effect | Components  |
+| ----- | ---- | ------ | ----------- |
+| nivel | nome | efeito | componentes |
+### Spell Slots
+
+|          |                                       |                                       |                                       |                                       |      |
+| -------- | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | ---- |
+| 1° Level | <input type="checkbox" unchecked><br> | <input type="checkbox" unchecked><br> | <input type="checkbox" unchecked><br> | <input type="checkbox" unchecked><br> | <br> |
+| 2° Level | <input type="checkbox" unchecked><br> | <input type="checkbox" unchecked><br> | <input type="checkbox" unchecked><br> |                                       |      |
+| 3° Level | <input type="checkbox" unchecked><br> | <input type="checkbox" unchecked><br> | <input type="checkbox" unchecked><br> |                                       |      |
+| 4° Level | <input type="checkbox" unchecked><br> | <input type="checkbox" unchecked><br> | <input type="checkbox" unchecked><br> |                                       |      |
+| 5° Level | <input type="checkbox" unchecked><br> | <input type="checkbox" unchecked><br> | <input type="checkbox" unchecked><br> |                                       |      |
+| 6° Level | <input type="checkbox" unchecked><br> | <input type="checkbox" unchecked><br> |                                       |                                       |      |
+| 7° Level | <input type="checkbox" unchecked><br> | <input type="checkbox" unchecked><br> |                                       |                                       |      |
+| 8° Level | <input type="checkbox" unchecked><br> |                                       |                                       |                                       |      |
+| 9° Level | <input type="checkbox" unchecked><br> |                                       |                                       |                                       |      |
+
+## Equipment
+CP | SP | EP | GP | PP |
+:---:|:---:|:---:|:---:|:---:|
+1|||||
+
+- 
+
+### Personality
+###### Personality Traits
+
+###### Ideals
+
+###### Bonds
+
+###### Flaws
