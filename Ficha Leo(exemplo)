@@ -63,7 +63,6 @@ name Add Trait
 type line(+1) text
 action ###### Trait
 **Description of trait**
-color #640b0b
 
 - Bullet list of what traits do
 ```
